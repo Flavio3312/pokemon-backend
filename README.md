@@ -1,4 +1,4 @@
 # pokemon-backend
 <p align="left">
-  <img height="200" src="./Captura.JPG" />
+  <img height="800" width="600" src="./Captura.JPG" />
 </p>
